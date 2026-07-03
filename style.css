@@ -1,0 +1,32 @@
+body{
+font-family: Arial, "Microsoft YaHei";
+text-align:center;
+margin-top:60px;
+}
+
+#stim{
+width:200px;
+height:200px;
+margin:40px auto;
+display:none;
+}
+
+#fix{
+font-size:60px;
+display:none;
+}
+
+input{
+font-size:18px;
+padding:5px;
+}
+
+button{
+font-size:18px;
+padding:8px 20px;
+}
+
+span{
+white-space:nowrap;
+font-size:50px;
+}
